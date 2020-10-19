@@ -30,13 +30,15 @@ There were three major challenges identified -
   <li> Disparate sources of documentation had no centralization </li>
   <li> Recent introduction of JSX modules didn't find support in current documentation-as-service tool </li>
  </ul>
- It was agreed upon to migrate to a documentation-as-service tool that supported JSX & would simplify the
- way it was managed overall. Additionally, the new documentation would help in separating source code & the
- actual documentation hosting with increased focus on enabling the scientific community to make contributions.
- The project incorporates betterment of both - the qualitative & the technical aspects of the documentation. The
- endeavour in the qualitative side is to make the user experience & content simpler for folks newer to the technology.
- The technical aspect mainly deals with ascertaining the tool to be used & gaining proficiency in languages that the
- tool utilizes for conversion & hosting of documentation.
+ 
+The project aims to migrate to a documentation-as-service tool supporting JSX & simplifying the operational
+support & management of documentation. Additionally, it would eliminate the dependency on source code &
+centralize the disparate sources by linking them.
+
+The target scope was inclusive of both the technical & qualitative aspects of documentation, thus contributing to 
+a holistic improvement. The endeavour in the qualitative side is to make the user experience & content simpler for 
+folks newer to the technology. The technical aspect mainly deals with migration to a new tool & improving the user
+interface simpler to navigate & attractive.
  
  
 **Mentors:** [Martin Barisits](https://github.com/bari12), [Mario Lassnig](https://github.com/mlassnig), [Thomas Beerman](https://github.com/tbeerman)
@@ -80,12 +82,12 @@ The major phases & sub-phases, per discussion, are as listed below:
  - **Agility**: The agility for each sub-phase was decided to be around a week. Most of the sub-phases
  overlapped on account of the tasks involved.
  
-Status update for the Community Bonding phase may be found [here]()
+Status update for the Community Bonding phase may be found [here](phases/Community-Bonding.md)
  
  #### Doc Development (September 14, 2020 - November 30, 2020)
  
  Per the sectioning decided in the Community Bonding phase, the status updates for each of the stages involved may be
- found [here]().
+ found [here](phases/Doc-Development.md).
  
  ### Final Verdict 
  
