@@ -29,15 +29,14 @@ Since Docusaurus fit the bill, it was chosen to be the tool we migrate the Rucio
 
 ### Prototyping :heavy_check_mark:
 
-While prototyping, we first focussed on converting the Sphinx-generated RST files to static HTML using standard themes provided by Sphinx.
-Since this was later found to be counter-intuitive in removing the dependency on Source code & simplifying the process, it was decided to
-directly convert the RST files into MD.
-A few of the Initial prototypes with Sphinx themes and Docusaurus are listed here:
+While prototyping, we first focussed on converting the Sphinx-generated RST files to a more widely used format. HTML & Markdown
+were the two options that were immediately narrowed down due to their simplicity. For initial prototyping, we attempted to 
+utilize various themes within Sphinx and place the file as static content under the website directory for Docusaurus.
 
-- [Solar theme for Sphinx](https://divya-mohan0209.github.io/docusaurus-solar/rucio/)
-- [Alabaster theme for Sphinx](https://divya-mohan0209.github.io/docusaurus-alabaster/rucio/)
-- [Primary prototype for utilizing only Docusaurus](https://divya-mohan0209.github.io/docusaurus-nature/docs/)
-- [Final prototype to progress into Doc Development Stage](https://divya-mohan0209.github.io/rucio-doc/)
+One of the earliest [prototypes](https://divya-mohan0209.github.io/docusaurus-current-theme/rucio/) we created was utilizing the existing ReadTheDocs theme.
+
+
+
 
 
 
