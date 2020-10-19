@@ -38,7 +38,9 @@ There were three major challenges identified -
  The technical aspect mainly deals with ascertaining the tool to be used & gaining proficiency in languages that the
  tool utilizes for conversion & hosting of documentation.
  
+ 
 **Mentors:** [Martin Barisits](https://github.com/bari12), [Mario Lassnig](https://github.com/mlassnig), [Thomas Beerman](https://github.com/tbeerman)
+ 
  
 ### Phase updates
  
@@ -94,7 +96,10 @@ Status update for the Community Bonding phase may be found [here]()
  repository for Rucio](https://github.com/rucio/documentation)
  
  ### Resources
+ 
+ 
  ### Links
+ 
 * [Google Season of Docs proposal - Divya Mohan]()
 * [Project Link](https://developers.google.com/season-of-docs/docs/participants/project-cernhsf-ariadne) on GSoD website
 
