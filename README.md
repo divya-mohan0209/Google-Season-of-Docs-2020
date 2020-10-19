@@ -48,9 +48,9 @@ There were three major challenges identified -
 
 During the Community bonding phase, cadence, agility, & sectioning of the project were the major points of discussion.
 
-- Cadence: Weekly meetings to be held every Monday at 1.30 PM IST/10.00 AM CEST.
+- **Cadence**: Weekly meetings to be held every Monday at 1.30 PM IST/10.00 AM CEST.
 
-- Sectioning: The project was divided into phases & sub-phases in order to aid with the agility.
+- **Sectioning**: The project was divided into phases & sub-phases in order to aid with the agility.
 
 The major phases & sub-phases, per discussion, are as listed below:
 
@@ -77,7 +77,7 @@ The major phases & sub-phases, per discussion, are as listed below:
   </ul>
  </ul>
  
- - Agility: The agility for each sub-phase was decided to be around a week. Most of the sub-phases
+ - **Agility**: The agility for each sub-phase was decided to be around a week. Most of the sub-phases
  overlapped on account of the tasks involved.
  
 Status update for the Community Bonding phase may be found [here]()
