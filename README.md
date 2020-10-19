@@ -10,8 +10,8 @@
 </div>
 
 <p align="center">
-	<a href="#project-abstract">Project Abstract</a> 
-  <a href="#phase-updates">Phase updates</a> |
+	<a href="#project-abstract">Project Abstract</a> |
+        <a href="#phase-updates">Phase updates</a> |
 	<a href="#final-verdict">Final Verdict</a> |
 	<a href="#prototype">Prototype</a> |
 	<a href="#resources">Resources</a>
@@ -46,13 +46,13 @@ interface simpler to navigate & attractive.
  
 ### Phase updates
  
-#### Community bonding (August 17, 2020 - September 13, 2020)
+#### :handshake: Community bonding (August 17, 2020 - September 13, 2020) 
 
 During the Community bonding phase, cadence, agility, & sectioning of the project were the major points of discussion.
 
-- **Cadence**: Weekly meetings to be held every Monday at 1.30 PM IST/10.00 AM CEST.
+- :thought_balloon: :speech_balloon: **Cadence**: Weekly meetings to be held every Monday at 1.30 PM IST/10.00 AM CEST.
 
-- **Sectioning**: The project was divided into phases & sub-phases in order to aid with the agility.
+- :hammer:**Sectioning**: The project was divided into phases & sub-phases in order to aid with the agility. 
 
 The major phases & sub-phases, per discussion, are as listed below:
 
@@ -79,25 +79,27 @@ The major phases & sub-phases, per discussion, are as listed below:
   </ul>
  </ul>
  
- - **Agility**: The agility for each sub-phase was decided to be around a week. Most of the sub-phases
+ - :runner: **Agility**: The agility for each sub-phase was decided to be around a week. Most of the sub-phases
  overlapped on account of the tasks involved.
  
 Status update for the Community Bonding phase may be found [here](phases/Community-Bonding.md)
  
- #### Doc Development (September 14, 2020 - November 30, 2020)
+ #### :construction: Doc Development (September 14, 2020 - November 30, 2020)
  
  Per the sectioning decided in the Community Bonding phase, the status updates for each of the stages involved may be
  found [here](phases/Doc-Development.md).
  
- ### Final Verdict 
+ ###  :sunrise: Final Verdict 
  
- ### Prototype
+ Final Evaluation Period (November 30, 2020 - December 5, 2020)
+ 
+ ### :computer: Prototype
  
  [Rucio Doc](https://github.com/divya-mohan0209/rucio-doc) - This is a personal repository containing the source code &
  the compiled version on GH-pages. Once the prototype has been finalized, the work will be shifted to the [documentation
  repository for Rucio](https://github.com/rucio/documentation)
  
- ### Resources
+ ### :books: Resources
  
  
  ### Links
