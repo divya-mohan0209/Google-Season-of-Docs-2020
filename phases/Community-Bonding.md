@@ -24,7 +24,7 @@ overlapped, they have not been specified.
 
 ### Research tools fitting the requirement :heavy_check_mark:
 
-The [document assessing potential candidates](Potential candidates for Rucio Documentation.pdf) has been uploaded for ready reference.
+The [document assessing potential candidates](Potential-candidates-for-Rucio-Documentation.pdf) has been uploaded for ready reference.
 Since Docusaurus fit the bill, it was chosen to be the tool we migrate the Rucio documentation to. 
 
 ### Prototyping :heavy_check_mark:
