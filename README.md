@@ -3,7 +3,7 @@
 <p align="center">A full report of my Google Season of Docs 2020 with CERN-HSF </p1>
 
 <div align="center">
-    <a href="https://developers.google.com/season-of-docs"><img src="Assets/CERN-HSF-GSdocs-logo.png" width="250" alt="google-season-of-docs-with-CERN-HSF"></a>
+    <a href="https://developers.google.com/season-of-docs"><img src="img/CERN-HSF-GSdocs-logo.png" width="250" alt="google-season-of-docs-with-CERN-HSF"></a>
     <h2>
     Modernizing & Restructuring<a href="https://github.com/rucio/documentation"> documentation </a> for Rucio
     </h2>
