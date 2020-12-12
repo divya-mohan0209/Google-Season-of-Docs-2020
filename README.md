@@ -93,16 +93,20 @@ Status update for the Community Bonding phase may be found [here](phases/Communi
  
  Final Evaluation Period (November 30, 2020 - December 5, 2020)
  
+ During this period, I utilized the progress mentioned here to create a [Project Report](https://www.divya-mohan.com/project-report-gsod)
+ as also submit feedback about my experience on the program.
+ 
  ### :computer: Prototype
  
  [Rucio Doc](https://github.com/divya-mohan0209/rucio-doc) - This is a personal repository containing the source code &
  the compiled version on GH-pages. Once the prototype has been finalized, the work will be shifted to the [documentation
- repository for Rucio](https://github.com/rucio/documentation)
+ repository for Rucio](https://github.com/rucio/documentation).
+ 
+ The final documentation is now available at: http://rucio.cern.ch/documentation
  
  ### :books: Resources
  
- 
- ### Links
+ #### Links
  
 * [Google Season of Docs proposal - Divya Mohan]()
 * [Project Link](https://developers.google.com/season-of-docs/docs/participants/project-cernhsf-ariadne) on GSoD website
