@@ -39,11 +39,27 @@ The final documentation structure was ascertained with two  goals:
 With the [final prototype from this stage](https://divya-mohan0209.github.io/rucio-doc/), we've aimed to
 leverage the capabilities of Docusaurus by utilizing the pandoc utility available for conversion from RST to MD.
 
-### Fleshing out Content :construction:
+### Fleshing out Content :heavy_check_mark:
 
-### Adding a Documentation Contributor Guide :hourglass:
+Content was required to be restructured & in some places, there was a requirement for addition of content
+to simplify it for new users. We've done that with the help of the existing content from different sources.
 
-### Revamping the Development Contributor Guide :hourglass:
+### Adding a Documentation Contributor Guide :heavy_check_mark:
+
+A [contributing guide](http://rucio.cern.ch/documentation/docs/Contributing.html) was introduced so that users could better understand our repository structure & 
+help in the maintenance/upkeep effectively.
+
+### Revamping the contribution structure :heavy_check_mark:
+
+The current setup was made more contributor-friendly by separating the documentation from the source.
+This would lower the contribution barrier by allowing for the requester to familiarize themselves with
+just the static site generators rather than starting off by knowing the entire technology. It would also
+promote community-driven contributions.
 
 ### Final Design Touches :hourglass:
 
+Some of the final design touches that we added were
+
+- Integrating the Algolia Search Bar
+- Setting up of GitHub actions for ease of community-driven maintenance & upgrade
+- Setting up of Navigation bars in the Docs section
