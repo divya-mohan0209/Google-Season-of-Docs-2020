@@ -56,7 +56,7 @@ This would lower the contribution barrier by allowing for the requester to famil
 just the static site generators rather than starting off by knowing the entire technology. It would also
 promote community-driven contributions.
 
-### Final Design Touches :hourglass:
+### Final Design Touches :heavy_check_mark:
 
 Some of the final design touches that we added were
 
